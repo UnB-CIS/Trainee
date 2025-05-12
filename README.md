@@ -18,6 +18,7 @@ Sejam bem vindos, aqui estarão presentes todos os arquivos referentes aos perí
 # 2º Período: Clusterização (12/05 - 19/05)
 
 ### Aula
+- [Slides do Segundo Período](2°%20Período/Periodo2.pdf)
 
 ### Desafios
 - [Desafio de Clusterização](2°%20Período/03%20-%20Atividade%20Clusterização.pdf)
