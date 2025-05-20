@@ -8,21 +8,29 @@ Sejam bem vindos, aqui estarão presentes todos os arquivos referentes aos perí
 # 1º Período: Regressão e Classificação (5/05 - 12/05)
 
 ### Aula
-- [Slides da Aula Inicial](./1%C2%B0%20Per%C3%ADodo/1%20-%20Aula.pdf)
+- [Slides da Aula Inicial](1_Período/Apresentacao.pdf)
 
 ### Desafios
-- [Desafio de Regressão](1%C2%B0%20Per%C3%ADodo/2%20-%20Atividade%20Regress%C3%A3o.pdf)
-- [Desafio de Classificação](1%C2%B0%20Per%C3%ADodo/3%20-%20Atividade%20Classifica%C3%A7%C3%A3o.pdf)
+- [Desafio de Regressão](1_Período/Atividade_regrecao.pdf)
+- [Desafio de Classificação](1_Período/Atividade_classificacao.pdf)
 
 ---
 # 2º Período: Clusterização (12/05 - 19/05)
 
 ### Aula
-- [Slides do Segundo Período](2°%20Período/Periodo2.pdf)
+- [Slides do Segundo Período](2_Período/Apresentacao.pdf)
 
 ### Desafios
-- [Desafio de Clusterização](2°%20Período/03%20-%20Atividade%20Clusterização.pdf)
+- [Desafio de Clusterização](2_Período/Atividade.pdf)
 
 # 3º Período: Perceptron e MLP (19/05-26/05)
+
+### Aula
+- [Slides do Terceiro Período](3_Período/Apresentacao.pdf)
+
+### Desafios
+- [Desafio de Redes Neurais](3_Período/Atividade.pdf)
+
+
 # 4º Período: Visão Computacional (26/05-02/06)
 # 5º Período: Apresentações (02/06-09/06)
