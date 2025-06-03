@@ -31,6 +31,15 @@ Sejam bem vindos, aqui estarão presentes todos os arquivos referentes aos perí
 ### Desafios
 - [Desafio de Redes Neurais](3_Período/Atividade.pdf)
 
+# 4º Período: Visão Computacional (03/06-10/06)
 
-# 4º Período: Visão Computacional (26/05-02/06)
+### Aula
+- [Slides Redes Neurais Convolucionais](4_Período/aulão_cnn.pdf)
+- [Notebook Aplicação de Método Multiclasse](4_Período/clouds.ipynb)
+- [Extras Sobre Utilização](4_Período/multiclass.pdf)
+- [Notebook de Extras Sobre Utilização](4_Período/more_examples.ipynb)
+
+### Desafios
+- [Desafio de Redes Neurais Convolucionais](4_Período/Atividade.pdf)
+
 # 5º Período: Apresentações (02/06-09/06)
